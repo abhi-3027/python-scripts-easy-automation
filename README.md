@@ -1,2 +1,2 @@
 # python-scripts-easy-automation
-easy automation of basic excel tasks
+easy automation of basic mundane tasks
